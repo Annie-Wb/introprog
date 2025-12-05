@@ -25,7 +25,7 @@ Många av de programmeringsverktyg vi använder körs via ett terminalfönster. 
 
 Scala med tillhörande verktyg installeras med hjälp av det officiella installationsverktyget Coursier enligt nedan. Du får då bl.a. följande terminalverktyg som du kan läsa om i kompendiet: `scala`, `scalac`, `scala-cli`, `scaladoc`, `sbt`.
 
-Om du kör MacOS eller Linux/Ubuntu/WSL så kan du gärna i stället använda den smidiga pakethanteraren SDKMAN, läs mer nedan under rubriken "SDKMAN" längre ned.
+Om du kör [MacOS](#macos) eller Linux/Ubuntu/WSL så kan du gärna i stället använda den smidiga pakethanteraren SDKMAN, läs mer nedan under rubriken "SDKMAN" längre ned.
 
 Om redan har en **gammal installation** av Scala-verktyg så **avinstallera först** med detta kommando: `cs uninstall --all` och **starta om** din dator efter det, innan du sedan följer efterföljande instruktioner för ditt operativsystem.
 
